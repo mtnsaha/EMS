@@ -42,6 +42,6 @@ Go to intellij terminal:
 2. Give pull request to main/master from GitHub UI.
 
 ***To Changed one branch to another branch***
-1. git checkout mithun_brnch (branch name)
+1. git checkout mithun_branch (branch name)
 
 ***END***
