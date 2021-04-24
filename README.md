@@ -27,5 +27,8 @@ Go to intellij terminal:
 ***To check origin/upstream url***
 1. git remote -v
 
+*** To clone a repository***
+1. open git bash on workspace folder
+2. git clone https://github.com/mtnsaha/EMS.git
 
 ***END***
