@@ -1,4 +1,5 @@
-# EMS
+# Employee Management System
+
 ***Initial steps to commit new code to git hub***
 
 main can be master
@@ -25,3 +26,6 @@ Go to intellij terminal:
 
 ***To check origin/upstream url***
 1. git remote -v
+
+
+***END***
