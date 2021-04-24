@@ -19,7 +19,7 @@ Go to intellij terminal:
 1. git status
 2. git add <all the modified file names you want to add> ex- git add a.java b.java c.java
 3. git commit -m "changed readme file"
-4. git push origin main
+4. git push("origin main" for main push)
 
 ***To check all the local modified files***
 1. git status
