@@ -43,5 +43,5 @@ Go to intellij terminal:
 
 ***To Changed one branch to another branch***
 1. git checkout mithun_branch (branch name)
-
+sdsdsds
 ***END***
