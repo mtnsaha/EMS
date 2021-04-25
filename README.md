@@ -19,7 +19,7 @@ Go to intellij terminal:
 1. git status
 2. git add <all the modified file names you want to add> ex- git add a.java b.java c.java
 3. git commit -m "changed readme file"
-4. git push origin main
+4. git push("origin main" for main push)
 
 ***To check all the local modified files***
 1. git status
@@ -27,5 +27,21 @@ Go to intellij terminal:
 ***To check origin/upstream url***
 1. git remote -v
 
+***To clone a repository***
+1. open git bash on workspace folder
+2. git clone https://github.com/mtnsaha/EMS.git
 
+***To pull code from upstream/main/master***
+1. git remote -v (to check if upstream is added to git or not).
+2. git remote add origin https://github.com/mtnsaha/EMS.git
+3. git pull origin main
+
+***To push code from local to my branch to main/master***
+
+1. Commit code to your branch.
+2. Give pull request to main/master from GitHub UI.
+
+***To Changed one branch to another branch***
+1. git checkout mithun_branch (branch name)
+sdsdsds
 ***END***
