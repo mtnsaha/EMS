@@ -18,12 +18,5 @@ pipeline {
                 }
             }
         }
-        stage('Deployment Stage') {
-            steps {
-                withMaven(maven: 'maven_3.8.1') {
-                    bat 'mvn deploy'
-                }
-            }
-        }
     }
 }
