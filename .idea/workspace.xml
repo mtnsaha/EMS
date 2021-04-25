@@ -139,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619350967455</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding jenkins file">
+      <created>1619352911497</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619352911498</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding jenkins file...">
+      <created>1619354462207</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619354462207</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +162,7 @@
     </ignored-roots>
     <MESSAGE value="fixed code review changes" />
     <MESSAGE value="Adding jenkins file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding jenkins file" />
+    <MESSAGE value="Adding jenkins file..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding jenkins file..." />
   </component>
 </project>
