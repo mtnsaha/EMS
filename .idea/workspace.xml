@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eebad2e4-d41b-4c26-8dbd-02c95982d821" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.EmployeeManagementSystemApplication">
     <configuration name="EmployeeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,11 +90,36 @@
       <option name="presentableId" value="Default" />
       <updated>1618659556191</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixed code review changes">
+      <created>1619283661787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619283661787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixed code review changes">
+      <created>1619284407410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619284407410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding jenkins file">
+      <created>1619347493490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619347493490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/EMS" />
     </ignored-roots>
+    <MESSAGE value="fixed code review changes" />
+    <MESSAGE value="Adding jenkins file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding jenkins file" />
   </component>
 </project>
