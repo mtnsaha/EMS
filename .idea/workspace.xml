@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebad2e4-d41b-4c26-8dbd-02c95982d821" name="Default Changelist" comment="">
+    <list default="true" id="eebad2e4-d41b-4c26-8dbd-02c95982d821" name="Default Changelist" comment="my linked list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -194,7 +195,28 @@
       <option name="project" value="LOCAL" />
       <updated>1619355125612</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="auto trigger jenkins">
+      <created>1619418277876</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619418277876</updated>
+    </task>
+    <task id="LOCAL-00013" summary="my linked list">
+      <created>1619418332059</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619418332059</updated>
+    </task>
+    <task id="LOCAL-00014" summary="my linked list">
+      <created>1619418876763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619418876763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,6 +227,7 @@
     <MESSAGE value="Adding jenkins file" />
     <MESSAGE value="Adding jenkins file..." />
     <MESSAGE value="auto trigger jenkins" />
-    <option name="LAST_COMMIT_MESSAGE" value="auto trigger jenkins" />
+    <MESSAGE value="my linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="my linked list" />
   </component>
 </project>
